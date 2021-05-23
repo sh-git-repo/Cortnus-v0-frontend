@@ -1,4 +1,4 @@
-# cortnus
+# Cortnus
 
 A new Flutter project.
 
